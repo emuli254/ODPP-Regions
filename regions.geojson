@@ -1,1 +1,132 @@
-<function_calls> <invoke name="getfile"> <parameter name="owner">emuli254</parameter> <parameter name="repo">KE-GeoJSON</parameter> <parameter name="path">KenyaData.geojson</parameter> </invoke> </function_calls> <function_calls> <invoke name="create_or_update_file"> <parameter name="owner">emuli254</parameter> <parameter name="repo">KE-GeoJSON</parameter> <parameter name="path">KenyaData.geojson</parameter> <parameter name="message">Add regional groupings to Kenya counties GeoJSON</parameter> <parameter name="content">{ "type": "FeatureCollection", "name": "Kenya_Counties_Administrative_Data", "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } }, "features": [ { "type": "Feature", "properties": { "FID": 1, "COUNTIES": "West Pokot", "REGION": "Rift Valley Region", "Shape__Area": 9145243151.7016907, "Shape__Length": 544620.42289642198 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 2, "COUNTIES": "Baringo", "REGION": "Rift Valley Region", "Shape__Area": 10964765384.9778, "Shape__Length": 726593.59464202204 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 3, "COUNTIES": "Bomet", "REGION": "Rift Valley Region", "Shape__Area": 2363060229.4117899, "Shape__Length": 339271.7606257 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 4, "COUNTIES": "Bungoma", "REGION": "Western Region", "Shape__Area": 3038374539.4445601, "Shape__Length": 356028.789856082 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 5, "COUNTIES": "Busia", "REGION": "Western Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 6, "COUNTIES": "Elgeyo-Marakwet", "REGION": "Rift Valley Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 7, "COUNTIES": "Embu", "REGION": "Lower Eastern Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 8, "COUNTIES": "Garissa", "REGION": "North Eastern Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 9, "COUNTIES": "Homa Bay", "REGION": "Nyanza Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 10, "COUNTIES": "Isiolo", "REGION": "North Eastern Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 11, "COUNTIES": "Kajiado", "REGION": "Nairobi Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 12, "COUNTIES": "Kakamega", "REGION": "Western Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 13, "COUNTIES": "Kericho", "REGION": "Rift Valley Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 14, "COUNTIES": "Kiambu", "REGION": "Nairobi Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 15, "COUNTIES": "Kilifi", "REGION": "Coast Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 16, "COUNTIES": "Kirinyaga", "REGION": "Central Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 17, "COUNTIES": "Kisii", "REGION": "Nyanza Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 18, "COUNTIES": "Kisumu", "REGION": "Nyanza Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 19, "COUNTIES": "Kitui", "REGION": "Lower Eastern Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 20, "COUNTIES": "Kwale", "REGION": "Coast Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 21, "COUNTIES": "Laikipia", "REGION": "Rift Valley Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 22, "COUNTIES": "Lamu", "REGION": "Coast Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 23, "COUNTIES": "Machakos", "REGION": "Nairobi Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 24, "COUNTIES": "Makueni", "REGION": "Nairobi Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 25, "COUNTIES": "Mandera", "REGION": "North Eastern Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 26, "COUNTIES": "Marsabit", "REGION": "North Eastern Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 27, "COUNTIES": "Meru", "REGION": "Lower Eastern Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 28, "COUNTIES": "Migori", "REGION": "Nyanza Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 29, "COUNTIES": "Mombasa", "REGION": "Coast Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 30, "COUNTIES": "Murang'a", "REGION": "Central Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 31, "COUNTIES": "Nairobi", "REGION": "Nairobi Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 32, "COUNTIES": "Nakuru", "REGION": "Rift Valley Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 33, "COUNTIES": "Nandi", "REGION": "Rift Valley Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 34, "COUNTIES": "Narok", "REGION": "Rift Valley Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 35, "COUNTIES": "Nyamira", "REGION": "Nyanza Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 36, "COUNTIES": "Nyandarua", "REGION": "Central Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 37, "COUNTIES": "Nyeri", "REGION": "Central Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 38, "COUNTIES": "Samburu", "REGION": "Rift Valley Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 39, "COUNTIES": "Siaya", "REGION": "Nyanza Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 40, "COUNTIES": "Taita-Taveta", "REGION": "Coast Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 41, "COUNTIES": "Tana River", "REGION": "Coast Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 42, "COUNTIES": "Tharaka Nithi", "REGION": "Lower Eastern Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 43, "COUNTIES": "Trans Nzoia", "REGION": "Rift Valley Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 44, "COUNTIES": "Turkana", "REGION": "Rift Valley Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 45, "COUNTIES": "Uasin Gishu", "REGION": "Rift Valley Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 46, "COUNTIES": "Vihiga", "REGION": "Western Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } }, { "type": "Feature", "properties": { "FID": 47, "COUNTIES": "Wajir", "REGION": "North Eastern Region", "Shape__Area": 0, "Shape__Length": 0 }, "geometry": { "type": "Polygon", "coordinates": [[]] } } ] } </parameter> </invoke> </function_calls>
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Nairobi Region",
+        "region_code": "R1",
+        "counties": [
+          "Nairobi County",
+          "Machakos County",
+          "Makueni County",
+          "Kiambu County",
+          "Kajiado County"
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Central Region",
+        "region_code": "R2",
+        "counties": [
+          "Murang'a County",
+          "Kirinyaga County",
+          "Nyeri County",
+          "Nyandarua County"
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Coast Region",
+        "region_code": "R3",
+        "counties": [
+          "Mombasa County",
+          "Kwale County",
+          "Kilifi County",
+          "Tana River County",
+          "Lamu County",
+          "Taita-Taveta County"
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Lower Eastern Region",
+        "region_code": "R4",
+        "counties": [
+          "Kitui County",
+          "Embu County",
+          "Tharaka Nithi County",
+          "Meru County"
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "North Eastern Region",
+        "region_code": "R5",
+        "counties": [
+          "Garissa County",
+          "Wajir County",
+          "Mandera County",
+          "Isiolo County",
+          "Marsabit County"
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Nyanza Region",
+        "region_code": "R6",
+        "counties": [
+          "Kisumu County",
+          "Siaya County",
+          "Homa Bay County",
+          "Migori County",
+          "Kisii County",
+          "Nyamira County"
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Rift Valley Region",
+        "region_code": "R7",
+        "counties": [
+          "Nakuru County",
+          "Narok County",
+          "Kericho County",
+          "Bomet County",
+          "Baringo County",
+          "Laikipia County",
+          "Samburu County",
+          "Turkana County",
+          "West Pokot County",
+          "Trans Nzoia County",
+          "Uasin Gishu County",
+          "Elgeyo-Marakwet County",
+          "Nandi County"
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Western Region",
+        "region_code": "R8",
+        "counties": [
+          "Kakamega County",
+          "Vihiga County",
+          "Bungoma County",
+          "Busia County"
+        ]
+      },
+      "geometry": null
+    }
+  ]
+}
